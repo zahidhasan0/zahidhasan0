@@ -1,6 +1,8 @@
+![Junior Front-end Web Developer](https://media-exp1.licdn.com/dms/image/D4D16AQEnumROOnBYEg/profile-displaybackgroundimage-shrink_350_1400/0/1670476511317?e=1675900800&v=beta&t=oC9nq5Fe3YT0kOdfGOK4GX5bFuOBxIAsvggCc3g_CPA)
+
 ### Hi there 👋, This is Md. Zahid Hasan
 #### Junior Front-end Web Developer
-![Junior Front-end Web Developer](https://media-exp1.licdn.com/dms/image/D4D16AQEnumROOnBYEg/profile-displaybackgroundimage-shrink_350_1400/0/1670476511317?e=1675900800&v=beta&t=oC9nq5Fe3YT0kOdfGOK4GX5bFuOBxIAsvggCc3g_CPA)
+
 
 - A Junior Front-End Web Developer with a bit of backend knowledge.
 
@@ -8,7 +10,13 @@
 
 - I am passionate about this field. So Building a better career in this field and wanna be a part of the development of my future company..
 
+
+
 Skills:  REACT / JS / HTML / CSS / MongoDB / Node JS / Express JS / Tailwind CSS  / Bootstrap 
+
+
+
+
 
 - 🔭 I’m currently working on GuiterShop project 
 - 🌱 I’m currently learning TypeScript 
